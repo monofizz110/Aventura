@@ -1,5 +1,5 @@
 body {
-     background-color: black;
+     background-color: rgb(132, 255, 0);
      display: flex;
      justify-content: center;
      align-items: center;
@@ -8,7 +8,7 @@ body {
 }
 
 button {
-     background-color: green;
+     background-color: rgb(9, 63, 9);
      color: white;
      font-family: "Bai Jamjuree";
 
